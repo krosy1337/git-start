@@ -1,3 +1,3 @@
 # GIT
 
-Crash course for git
+*Crash course for git*
